@@ -1,4 +1,11 @@
-# AngularCarWorkshopIntro
+# Angular Introduction Workshop : Cars
+
+Simple project do demonstrate @Input, @Output and EventEmitter between parent / child components
+
+## Setup
+
+- Fork, clone then run ``npm install`
+- `ng serve` to run
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
